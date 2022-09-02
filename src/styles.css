@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.emojiknow {
+  color: orangered;
+  margin: 2rem auto;
+}
+body {
+  background-color: rebeccapurple;
+  font-size: 1.5rem;
+}
+li {
+  display: inline;
+  cursor: pointer;
+  padding: 0 10px;
+  font-size: larger;
+}
