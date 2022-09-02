@@ -1,2 +1,2 @@
 # Emoji_Interpreter
-Created with CodeSandbox
+Emojis Interpreter Struggling with any Emojis? No worries,Try this app!
